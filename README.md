@@ -67,6 +67,12 @@ To generate a production build, run the following command.
 npm run build
 ```
 
+### Online one-click setup
+
+You can also develop, build and contribute online using Gitpod(an online IDE which is free for Open Source). With a single click it will launch a workspace and automatically: clone the Shoelace repo, install the dependencies, start the Shoelace dev server.
+
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/from-referrer/)
+
 ### Contributing
 
 Shoelace is an open source project and contributions are encouraged! If you're interesting in contributing, please review the [contribution guidelines](CONTRIBUTING.md) first.
